@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404653252615",
+    "firebase_url": "https://nomaste-79605.firebaseio.com",
+    "project_id": "nomaste-79605",
+    "storage_bucket": "nomaste-79605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404653252615:android:8f0a204c2c2db19d",
+        "android_client_info": {
+          "package_name": "com.example.dmorr.nomaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404653252615-me1kamq3uce51mihtkfed44quh7q8c0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmorr.nomaste",
+            "certificate_hash": "221d1525c200f9c809843c2d9314a2697d5df3f0"
+          }
+        },
+        {
+          "client_id": "404653252615-102h2dna8p7c5kmtqv5jlo8t26n0vnta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepnKcT22N-FExXRAzzVeWuMfpuvrW9aM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404653252615-102h2dna8p7c5kmtqv5jlo8t26n0vnta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

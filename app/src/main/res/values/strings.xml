@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nomaste</string>
+    <string name="like_button">Like</string>
+    <string name="follow_button">Follow</string>
+    <string name="title_activity_dish">DishActivity</string>
+    <string name="login_page_description1">Discover amazing dishes from amazing restaurants.</string>
+    <string name="login_page_description2">Open your mind and palate, and explore your senses.</string>
+    <string name="logout_button">Logout</string>
+    <string name="browse_photos_button">Browse</string>
+    <string name="upload_photo_button">Upload</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
